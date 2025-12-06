@@ -63,3 +63,12 @@ Le projet est réalisé dans un **notebook Jupyter Python**, avec des analyses u
 
 ## 🏗 Structure du projet
 
+Etape 1 - Importation des librairies, chargement des fichiers et configuration visuelle
+
+Etape 2 - Analyse exploratoire des fichiers
+
+Etape 3 - Préparation et Nettoyage des Données
+
+Etape 4 - Analyse Univarié
+
+Etape 5 - Analyses Bivariées
