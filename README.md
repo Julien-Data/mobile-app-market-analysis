@@ -1,10 +1,10 @@
 # Mobile App Market Analysis
 
 ## 📌 Description du projet
-Ce projet est une **analyse exploratoire des applications mobiles** du Google Play Store.  
-L'objectif principal est de **comprendre les tendances du marché des applications**, notamment la popularité par catégorie, les notes des utilisateurs, et les relations entre différentes métriques (installations, prix, taille, etc.).
+Ce projet consiste en une **analyse des applications mobiles du Google Play Store**, visant à extraire des insights sur le comportement des utilisateurs et les revenus générés. 
+L'objectif principal est de **comprendre les tendances du marché**, analyser la popularité et les notes par catégorie, et explorer les relations entre les différentes métriques (installations, prix, taille, type, etc.) pour identifier des opportunités et des leviers de performance.
 
-Le projet est réalisé dans un **notebook Jupyter Python**, avec des analyses univariées et bivariées ainsi que des tests d’hypothèses pour valider certaines observations.
+Le projet est réalisé dans un **notebook Jupyter en Python**, avec des analyses univariées et bivariées ainsi que des tests d’hypothèses pour valider certaines observations.
 
 ---
 
@@ -63,12 +63,12 @@ Le projet est réalisé dans un **notebook Jupyter Python**, avec des analyses u
 
 ## 🏗 Structure du projet
 
-Etape 1 - Importation des librairies, chargement des fichiers et configuration visuelle
+Étape 1 - Importation des librairies, chargement des fichiers et configuration visuelle
 
-Etape 2 - Analyse exploratoire des fichiers
+Étape 2 - Analyse exploratoire des fichiers
 
-Etape 3 - Préparation et Nettoyage des Données
+Étape 3 - Préparation et nettoyage des données
 
-Etape 4 - Analyse Univarié
+Étape 4 - Analyse univariée
 
-Etape 5 - Analyses Bivariées
+Étape 5 - Analyses bivariées
